@@ -1,0 +1,12 @@
+.aa{
+    border-bottom: 3px solid red;
+    width: 6rem;
+}
+.bord{
+    border: 2px solid white;
+    border-radius: 50px;
+    margin: 1px;
+    padding: 4px;
+    background-color: gray;
+    color: white;
+}
